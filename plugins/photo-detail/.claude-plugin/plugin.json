@@ -1,0 +1,8 @@
+{
+  "name": "photo-detail",
+  "description": "Full-resolution photo analysis skills: /inspect-photo tiles or crops high-res photos past Claude's ~1.15 MP vision downscale so fine detail (label text, part numbers, small components) stays readable; /describe-photos fans out workers to batch-generate searchable sidecar .md descriptions with verbatim label transcriptions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dan Gahagan"
+  }
+}

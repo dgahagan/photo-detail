@@ -1,0 +1,13 @@
+{
+  "name": "photo-detail",
+  "owner": {
+    "name": "Dan Gahagan"
+  },
+  "plugins": [
+    {
+      "name": "photo-detail",
+      "source": "./plugins/photo-detail",
+      "description": "Full-resolution photo analysis: tile/crop high-res photos past the vision downscale limit, and batch-generate searchable sidecar descriptions with verbatim label transcriptions."
+    }
+  ]
+}
